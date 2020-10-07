@@ -1,0 +1,20 @@
+h2{
+  color: #d68a00;
+}
+hr{
+height: 3px;
+background-color: #d68a00;
+border: 0;
+}
+header{
+text-align: center;
+background-color: #7fbfbf;
+}
+h3{
+  font-style: italic;
+}
+.scatola{
+  max-width: 750px;
+  margin: auto;
+}
+/* ho provato ad usare un div al quale ho aggiunto le proprietà sopra riportate per centrarlo secondo l'immagine */
